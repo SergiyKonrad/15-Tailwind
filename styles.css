@@ -1,0 +1,32 @@
+.slider-img {
+  width: 100%;
+  height: auto;
+}
+
+.dropdown-menu {
+  display: none;
+}
+
+.group:hover .dropdown-menu {
+  display: block;
+}
+
+.accordion-content {
+  display: none;
+}
+
+input:checked + label + .accordion-content {
+  display: block;
+}
+
+#toggleButton {
+  font-size: 2.5em;
+}
+
+.accordion-collapse.show {
+  display: block;
+}
+
+.accordion-collapse.hidden {
+  display: none;
+}
