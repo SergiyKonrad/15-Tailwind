@@ -1,1 +1,1 @@
-#A simple Tailwind website.
+# A simple Tailwind website.
